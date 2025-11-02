@@ -31,7 +31,7 @@ newsletter-generator/
 
 Clone \& install dependencies:
 
-git clone https://github.com/<your-username>/newsletter-generator.git
+git clone https://github.com/code-breaker-42/newsletter_generator.git
 
 cd newsletter-generator
 
@@ -60,4 +60,5 @@ python newsletter\_generator.py
 
 
 Output: newsletter\_output.html
+
 
